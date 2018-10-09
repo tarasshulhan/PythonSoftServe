@@ -3,6 +3,8 @@ Taras Shulhan
 Python Core 355
 Homework 2 Task 1
 '''
+
+
 import this
 import codecs # for deciphering
 from collections import Counter # to count words
