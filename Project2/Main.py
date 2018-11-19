@@ -1,10 +1,6 @@
 from Word_List import WordList
 import Gui
-import Path
-A = WordList("words.txt", "extra_words.txt")
 
-
-print(A.all_word_lists[0])
 
 def create_pic_list(word_list):
     pic_list = []
@@ -12,6 +8,8 @@ def create_pic_list(word_list):
         pic_list.append('Pics/{}.jpg'.format(i))
     return pic_list
 
+
+A = WordList("words.txt", "extra_words.txt")
 
 delay = 5000
 image_files = create_pic_list(A.all_word_lists[0])

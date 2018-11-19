@@ -1,4 +1,4 @@
-from itertools import *
+from itertools import cycle
 import tkinter as tk
 from PIL import Image, ImageTk
 import io

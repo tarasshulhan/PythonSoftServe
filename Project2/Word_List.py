@@ -21,14 +21,12 @@ class WordList:
             file = [line.strip() for line in infile][:120]
             return file
 
-
     # divide list into smaller lists of lenght n
     def chunks(self, l, n):
         # For item i in a range that is a length of list,
         for i in range(0, len(l), n):
             # Create an index range for list of n items:
             yield l[i:i+n]
-
 
     # create all possible outcomes for given target
     def create_possibilities(self, start_list, main_dict):
@@ -42,12 +40,10 @@ class WordList:
             temp_list[5] = start_list[0]
             main_dict.setdefault(start_list.index(i)+4, []).append(temp_list)
 
-
     # create all outcomes for all targets
     def all_possible_outcomes(self, start_list, main_dict):
         for i in start_list:
             self.create_possibilities(i, main_dict)
-
 
     # create experiment for one person
     def randomize_person(self, main_dict, personal_counter):
@@ -115,6 +111,7 @@ class WordList:
             word_lists.append(self.create_word_list(i))
         return word_lists
 
+    #fill balnks and add extra words at the beginning
     def fill_blanks(self):
         for i in self.all_word_lists:
             for j in i:
