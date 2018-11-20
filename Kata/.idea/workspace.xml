@@ -4,15 +4,6 @@
     <list default="true" id="44865717-197d-4cb6-b252-099eea222f51" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HW2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ball.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classy_Classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classy_Classes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Color_Ghost.py" beforeDir="false" afterPath="$PROJECT_DIR$/Color_Ghost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Double_Char.py" beforeDir="false" afterPath="$PROJECT_DIR$/Double_Char.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fix_The_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Fix_The_Loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Grasshopper_Summation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Grasshopper_Summation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Is_Upper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Is_Upper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Shorten_to_Date.py" beforeDir="false" afterPath="$PROJECT_DIR$/Shorten_to_Date.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sort_My_Textbooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sort_My_Textbooks.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +36,12 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="py" value="42" />
+          <entry key="txt" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="PLAIN_TEXT" value="11" />
           <entry key="Python" value="42" />
         </counts>
       </usages-collector>
@@ -66,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Grasshopper_Summation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
@@ -138,7 +130,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Classy_Classes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -406,18 +398,25 @@
       <option name="presentableId" value="Default" />
       <updated>1539044999346</updated>
     </task>
+    <task id="LOCAL-00001" summary="new katas">
+      <created>1542754124972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542754124972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -433,6 +432,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new katas" />
+    <option name="LAST_COMMIT_MESSAGE" value="new katas" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Will_There_Be_Enough_Space.py">
@@ -533,20 +536,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Grasshopper_Summation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fix_The_Loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Double_Char.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -593,6 +582,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fix_The_Loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Grasshopper_Summation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
